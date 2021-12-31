@@ -1,0 +1,60 @@
+.register-box{
+    width: 500px;
+    height: 700px;
+    margin: auto;
+    background: #842184;
+    margin-top:50px ;
+    border-radius:25px ;
+}
+h2{
+    text-align: center;
+    font-style: italic;
+    color: white;
+    padding-top: 15px;
+    font-size: 40px;
+} 
+form{
+    width: 400px;
+    margin-left: 20px; 
+    align-content: center;
+}
+.inreg{
+    width: 100%;
+    border-radius: 6px; 
+    height: 27px;
+} 
+
+form label{
+    display: flex;
+    margin-top: 15px;
+    font-size: 18px; 
+    border: none; 
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 20px; 
+    outline: none; 
+    line-height: 25x;
+} 
+.submit{
+    width: 200px;
+    margin-top: 18px;
+    height: 30px;
+    margin-left: 90px;
+    border-radius: 8px; 
+    font-size: 23px;
+}
+::placeholder{
+    padding-top: 3px;    
+}
+p{
+    text-align: center;
+    margin-top: 25px;
+    color: #fff;
+    font-size: 19px;
+}
+
+a:hover{
+    color: #fff
+}
